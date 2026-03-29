@@ -24,7 +24,6 @@ htmlcov/
 
 # Storage (local dev files)
 /app/storage/
-storage/
 
 # IDE
 .vscode/
